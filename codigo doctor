@@ -1,0 +1,29 @@
+
+Pseudocodigo:
+
+Public class interface{
+
+Public class Doctor{
+String name= Dr juan; 
+Int ID;
+String especialidad = ();
+}
+
+
+
+
+Public class paciente extends Cita{
+String nombrePaciente ;
+Int IDpaciente;
+}
+
+
+Public class Cita{
+Int IDcita;
+Int fecha;
+Int hora;
+String motivo;
+}
+
+}
+
